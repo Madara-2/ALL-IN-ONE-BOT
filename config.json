@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": ".",
-    "mongodbUri": "mongodb+srv://djskye:11223344551@cluster0.zcbwt.mongodb.net/?retryWrites=true&w=majority",
+    "mongodbUri": "mongodb+srv://allinone:allinonebot@cluster0.qieot.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,

@@ -1,8 +1,8 @@
 {
     "token": "",
     "language": "en",
-    "prefix": "!",
-    "mongodbUri": "",
+    "prefix": ".",
+    "mongodbUri": "mongodb+srv://djskye:11223344551@cluster0.zcbwt.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
@@ -30,10 +30,10 @@
     },
      "lavalink": {
         "lavalink": {
-            "identifier": "INZEWORLD.COM (DE)",
-            "password": "saher.inzeworld.com",
-            "host": "lava.inzeworld.com",
-            "port": 3128,
+            "identifier": "xx",
+            "password": "toto11223344551",
+            "host": "180.188.226.76",
+            "port": 6966,
             "secure": false
           }
     }, 
